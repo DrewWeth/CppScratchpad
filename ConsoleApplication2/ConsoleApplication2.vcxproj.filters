@@ -36,6 +36,9 @@
     <ClCompile Include="Mammal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MultithreadExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Monster.h">
@@ -60,6 +63,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Mammal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultithreadExample.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

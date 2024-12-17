@@ -135,6 +135,7 @@
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="Mammal.cpp" />
     <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="MultithreadExample.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="StringFunctions.cpp" />
     <ClCompile Include="Timestamp.cpp" />
@@ -145,6 +146,7 @@
     <ClInclude Include="Mammal.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="FileInfo.h" />
+    <ClInclude Include="MultithreadExample.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="StringFunctions.h" />
     <ClInclude Include="Timestamp.h" />
