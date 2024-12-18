@@ -19,7 +19,7 @@
 #include <fstream>
 #include "Monster.h"
 #include "Log.h"
-#include "ConsoleApplication2.h"
+#include "Main.h"
 #include <chrono>
 #include <format>
 #include "Timestamp.h"
@@ -158,11 +158,11 @@ int main()
 
 
     Log("Press enter to make GET Request");
-    if (cin.get()) {
+    //if (cin.get()) {
         TestRequest();
         TestRequest();
         TestRequest();
-    }
+    //}
 
     Log("************* COMPLETED *************");
 }
